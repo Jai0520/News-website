@@ -1,7 +1,7 @@
 # News Website
 
 ## Project Description
-This project aims to develop a dynamic news listing feature by combining JavaScript with the News API. By utilizing the News API, the project can offer the users to access the rea$-time and up-to-date news articles.
+This project aims to develop a dynamic news listing feature by combining JavaScript with the News API. By utilizing the News API, the project can offer the users to access the real-time and up-to-date news articles.
 
 ## How to run the project
 * you can use git clone command to download the contents of the project.
